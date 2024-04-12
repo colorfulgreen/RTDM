@@ -1,0 +1,18 @@
+build/
+lib/
+exported/
+
+Makefile
+
+Vocabulary/ORBvoc.txt
+Examples/Monocular-Inertial/mono_inertial_euroc
+
+
+" python stuff
+__pycache__/
+build/
+dist/
+*.egg-info/
+*.so
+
+.DS_Store
